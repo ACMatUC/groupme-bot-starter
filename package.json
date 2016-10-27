@@ -1,0 +1,30 @@
+{
+  "name": "groupme-bot-starter",
+  "version": "1.0.0",
+  "description": "Starter code for the GroupMe bot workshop at ACM@UC",
+  "author": "Noah Bass <noah@noahbass.com>",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js --dev"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "director": "1.2.8",
+    "dotenv": "2.0.0",
+    "winston": "2.2.0"
+  },
+  "devDependencies": {
+    "localtunnel": "1.8.1",
+    "promptly": "2.1.0"
+  },
+  "homepage": "https://github.com/acmatuc/groupme-bot-starter",
+  "bugs": "https://github.com/acmatuc/groupme-bot-starter/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acmatuc/groupme-bot-starter.git"
+  },
+  "license": "MIT"
+}

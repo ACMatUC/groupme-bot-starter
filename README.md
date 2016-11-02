@@ -1,6 +1,6 @@
 # GroupMe Bot Starter
 
-[![MIT License](https://img.shields.io/github/license/acmatuc/groupme-bot-starter.svg?maxAge=2592000)]()
+[![GNU GPLv3 License](https://img.shields.io/github/license/acmatuc/groupme-bot-starter.svg?maxAge=2592000)]()
 [![Dependencies Status](https://david-dm.org/acmatuc/groupme-bot-starter/status.svg)](https://david-dm.org/acmatuc/groupme-bot-starter)
 [![Dependencies Status](https://david-dm.org/acmatuc/groupme-bot-starter/dev-status.svg)](https://david-dm.org/acmatuc/groupme-bot-starter?type=dev)
 
@@ -84,6 +84,6 @@ Check out [dev.groupme.com](https://dev.groupme.com/) for more information on Gr
 
 ## License
 
-[MIT License](LICENSE.md)
+[GNU GPLv3 License](LICENSE.txt)
 
 * Some content based on [groupme/bot-tutorial-nodejs](https://github.com/groupme/bot-tutorial-nodejs) (MIT License)

@@ -31,9 +31,9 @@ You'll need a few things before you start:
 │ └── server.js - handles GET and POST requests to the app
 ├── screenshots - various ui screenshots
 ├── .editorconfig
+├── .env.example - a template for the `.env` file
 ├── .gitignore
 ├── app.js - the app entry point
-├── LICENSE.txt
 ├── LICENSE.txt
 ├── package.json - project info and dependencies
 ├── Procfile - deployment configuration (for Heroku and similar deployment platforms)

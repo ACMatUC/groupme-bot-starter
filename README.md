@@ -49,11 +49,12 @@ You'll need a few things before you start:
 ### 1. Register a new GroupMe Bot
 
 * Head over to [dev.groupme.com](https://dev.groupme.com/) and login with your GroupMe credentials
-* Go to the `bots` tab and select `Create Bot`
-* Choose a group, and avatar uri for the bot. The callback url should be `http://localhost:3000` for now
+* [Go to the `bots` tab and select `Create Bot`](screenshots/dev.groupme.com.png)
+* [Choose a group, and avatar uri for the bot. The callback url should be `http://localhost:3000` for now](screenshots/bot-create.jpg)
 * Select `Submit` to create your bot
-* Select your bot from the list of bots and save the bot id for later
-* Check the group that you added the bot to. There should be a message that your bot was added to the group
+* [Select your bot from the list of bots and save the bot id for later](screenshots/bot-created.jpg)
+* Check the group that you added the bot to. There should be a message in chat that your bot was added to the group
+* Optional step: use the 'Test Your Bot' form (or use the provided `curl` command) on the newly created bot page to send a message to chat! This is an easy way to see how the bot interacts with GroupMe
 
 ### 2. Setup The Bot
 

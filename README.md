@@ -22,6 +22,24 @@ You'll need a few things before you start:
     * Run `node --version` to see your Node.js version and verify that it is installed
 * A [GroupMe](https://groupme.com/) account
 
+## Quick Tour
+
+```
+├─┬ lib
+│ ├── bot.js - handles bot logic
+│ ├── dev.js - creates a proxy server (for local development)
+│ └── server.js - handles GET and POST requests to the app
+├── screenshots - various ui screenshots
+├── .editorconfig
+├── .gitignore
+├── app.js - the app entry point
+├── LICENSE.txt
+├── LICENSE.txt
+├── package.json - project info and dependencies
+├── Procfile - deployment configuration (for Heroku and similar deployment platforms)
+└── README.md
+```
+
 ## Quick Start
 
 ### 0. Start a new GroupMe group
